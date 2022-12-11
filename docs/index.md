@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Tanner Wood's Resume
+title: Tanner Wood's Resume 
 ---
 # Tanner Wood
-Graduate from Brigham Young University-Idaho 
+Graduate from Brigham Young University-Idaho, December 2022`
 
 <div id="webaddress">
 <a href="datascience@byui.edu">woodtannerl@gmail.com</a>
@@ -37,15 +37,14 @@ __Idaho Falls Power__, Idaho Falls, ID
 `April 2022 - Present`
 __Brigham Young Univesrsity-Idaho Geography Department__, Teaching Assistant 
 
-- Employed by the University to tutor students and maintain GIS content
+- Employed by the University to tutor students and maintain GIS content.   
 - Material covered includes cartography, geodatabases, geoprocessing, and raster band calculations.
 - This position also includes planning meeting times with students, professors, grading, and giving feedback on course material.
 
 
 
 `April 2022 - Present`
-__Brigham Young Univesrsity-Idaho Geology Department__, President of sUAS Program
-
+__Brigham Young Univesrsity-Idaho Geology Department__, President of Geospatial Society (sUAS) Program     
 - Maintain two DJI Matrice 600s and manage several other students
 - Independently plan flight missions, collect research data, and process that data for department wide use
 - Remote Pilot Certificate from the FAA (Part 107)
